@@ -1,0 +1,13 @@
+.banner * {
+    z-index: 1;
+}
+
+.banner {
+    height: 70vh;
+}
+.banner img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    border-radius: 12px;
+}
