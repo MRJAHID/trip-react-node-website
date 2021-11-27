@@ -1,11 +1,11 @@
-# TimeKeeper (frontend)
+# Trip.com (frontend)
 
-**MEJURI** is a full feature Online niche Product Application,That's contains lot's of feature like product ordering,customer reviewing,product ordering and also including admin and user dashboard with orders and product management. **MEJURI**
+**Trip.com** is a full feature Online niche Product Application,That's contains lot's of feature like product ordering,customer reviewing,product ordering and also including admin and user dashboard with orders and product management. **Trip.com**
 
 ## Live
-**Frontend** [Click](https://mejuri-999f9.web.app/) or visit here: https://mejuri-999f9.web.app/
+**Frontend** [Click](https://tripcom-56468.web.app/) or visit here: https://tripcom-56468.web.app/
 
-**Backend**: https://intense-river-57850.herokuapp.com
+**Backend**: https://young-sands-57307.herokuapp.com/
 
 ## Tech Stack
 **Frontend:** Reactjs,React-Router-DOM,Firebase, ContextAPI, Bootstrap,React-Hook-Form,Axios,sweetalert
@@ -41,13 +41,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/MRJAHID/mejuri-simple-react-node-site.git
+  git clone https://github.com/MRJAHID/trip-react-node-website.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd mejuri-simple-react-node-site
+  cd trip-react-node-website
 ```
 
 Install dependencies
@@ -63,7 +63,7 @@ Start the server
 ```
 
 
-# MEJURI (Backend)
+# Trip.com (Backend)
 
 ## Backend API Endpoints
 
